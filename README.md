@@ -24,6 +24,7 @@ Drash codebase containing real world examples (CRUD, auth, advanced patterns, et
     ```bash
       sudo docker-compose -f docker-compose.m1.yml build && sudo docker-compose -f docker-compose.m1.yml up
     ```
+    Before this command run ```rm  ~/.docker/config.json```
 
 Navigate to [http://localhost:1667](http://localhost:1667)
 
